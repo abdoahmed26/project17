@@ -1,0 +1,9 @@
+.bacground {
+    background-image: url("./images (3).jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+.size {
+    font-size: 40px;
+}

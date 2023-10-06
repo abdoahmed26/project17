@@ -1,0 +1,8 @@
+button {
+    background-color: white !important;
+    padding: 0px 5px !important;
+    box-shadow: none !important;
+}
+button span {
+    background-size: 25px !important;
+}
